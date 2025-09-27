@@ -17,8 +17,8 @@ Aplikasi web modern berbasis React untuk mengeksplorasi kategori produk dari [Fa
 
 ## 🚀 Demo
 
-[Link Demo Langsung]()  
-*Ganti dengan link demo Anda jika sudah tersedia.*
+[Link Demo Langsung](https://tugas-akhir-kelompok-7.vercel.app/)  
+
 
 ---
 
